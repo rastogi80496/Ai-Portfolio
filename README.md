@@ -5,6 +5,10 @@
 
 An innovative portfolio powered by AI that brings my GitHub activity to life. The AI assistant can discuss my projects, commits, and contributions in real-time, providing visitors with an interactive way to explore my work.
 
+![AI Portfolio Screenshot](https://raw.githubusercontent.com/rastogi80496/Ai-Portfolio/main/Ai_Portfolio.png)
+
+Check out the live portfolio: [View Live Portfolio](https://rastogi80496.github.io/Ai-Portfolio/)
+
 ## ✨ How It Works
 
 - 🧠 **AI-Powered Conversations** - The AI assistant that discuss my projects, skills, and experience naturally
