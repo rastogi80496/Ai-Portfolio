@@ -30,15 +30,6 @@ ai-portfolio/
 - **💻 GitHub API** - Fetches live data about repositories and contributions directly from GitHub
 - **⚡ Client-Side Magic** - All processing happens in the browser, no backend server required
 
-## 🤝 Contributing & Feedback
-
-This portfolio is a living project that evolves with my work. If you'd like to contribute or have suggestions:
-
-1. Feel free to fork the repository
-2. Open an issue to discuss your ideas
-3. Submit a pull request with your improvements
-
-I welcome all feedback to make this portfolio even better!
 
 ## 📝 License
 
@@ -47,9 +38,4 @@ MIT Licensed - feel free to use this as a template for your own portfolio.
 ## 🙏 Special Thanks
 
 - **[Pollinations.ai](https://pollinations.ai/)** - For providing the free AI chat API that brings this portfolio to life
-- **GitHub** - For their robust API that enables real-time project data integration
-- **You** - For taking the time to explore my work and this portfolio!
-
----
-
-💡 *This portfolio is powered by open-source technologies and is itself open-source. Feel free to use it as a template for your own portfolio!*
+- **GitHub** - For their robust API that enables real-time project data integration.
