@@ -34,8 +34,3 @@ ai-portfolio/
 ## 📝 License
 
 MIT Licensed - feel free to use this as a template for your own portfolio.
-
-## 🙏 Special Thanks
-
-- **[Pollinations.ai](https://pollinations.ai/)** - For providing the free AI chat API that brings this portfolio to life
-- **GitHub** - For their robust API that enables real-time project data integration.
