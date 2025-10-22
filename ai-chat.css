@@ -700,21 +700,3 @@
 .ai-chat-retry-button:active {
     transform: translateY(1px);
 }
-
-/* Enhanced styles for error messages in bot replies */
-.ai-chat-message-bot.error {
-    background: linear-gradient(135deg, #fff0f0, #fff5f5);
-    border-left: 3px solid #c53030;
-}
-
-/* Rate limit specific message styling */
-.rate-limit-message {
-    color: #0b8eb3;
-    font-style: italic;
-}
-
-/* Countdown timer styling */
-.retry-countdown {
-    font-weight: bold;
-    color: #0b8eb3;
-}

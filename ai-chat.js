@@ -324,7 +324,7 @@ ${githubData}
         });
     }
 
-    // Check if the query is likely about Raven or his projects
+    // Check if the query is likely about Aditya or his projects
     function isRelevantQuestion(query) {
         query = query.toLowerCase();
         
