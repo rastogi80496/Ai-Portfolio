@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                         "AI Portfolio - Showcasing my AI tools",
                         "Virtual Herbal Garden - Discover Ayurvedic healing with a smart twist.",
                         "Dreven (AI Chatbot) - NLP-based assistant",
-                        "Online Food Service System  - Reduce waiting time of Canteen",
+                        "Online Food Service System  - Reduce waiting time of Canteen","Curreency_Converter -Effortlessly convert currencies with live rates and a sleek, responsive experience","Quizzify -Quiz Web App"
 
                     ];
                     
@@ -401,7 +401,7 @@ ${githubData}
         }
         
         // Check for the featured project names
-        const featuredProjects = ["Virtual Herbal Garden", "Online Food Service System", "Ai-Portfolio", "Chatbot - Ai based"];
+        const featuredProjects = ["Virtual Herbal Garden", "Online Food Service System", "Ai-Portfolio", "Chatbot - Ai based","Curreency_Converte","Quizffy"];
         for (const project of featuredProjects) {
             if (query.includes(project.toLowerCase())) {
                 return project;
